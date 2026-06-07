@@ -18,5 +18,6 @@ Learn entry level IT administration
 7. Disable user account with command "net user Bob /active:no" and verify by commanding "net user Bob" again which should display account not active. I Learned the security concept of disable then delete later in case data is needed from account
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/160c709a-0e0d-49c3-a958-f45690741da3" />
 8. Enabled Bobs account again with command "net user Bob /active: yes". Can be verified again with command "net user Bob"
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/597e52b4-ebb1-4fe2-a5c6-702e70b102ac" />
-9. 
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/597e52b4-ebb1-4fe2-a5c6-702e70b102ac" />\
+
+## comments/notes
