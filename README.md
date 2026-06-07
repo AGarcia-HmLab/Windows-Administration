@@ -1,4 +1,12 @@
-# Windows-Administration
-Learning entry level IT Admin
-- Create a Local Windows User account
-- 
+# Windows Admininstation - Lab01
+## Description
+Learn entry level IT administration
+## Objectives
+- Create a Local Windows user account
+## Skills Learned
+## Steps
+1. Log into Windows VM on VirtualBox
+2. On desktop, open Command Prompt found by searching " cmd " and running it as an admin.
+3. In command prompt, verify current user by entering "whoami" then enter "netuser" to display current account on pc
+4. Create a new user by entering "net user Bob Password123! /add". This crates a new user by using the command "net user" followed by the users name and temporary password. The "/add" creates the account.
+5. The account can then be verified it was created by entering "net user" again and seeing Bob in local users
