@@ -29,4 +29,3 @@ Here I Learned entry level IT administration tasks using command prompt on a Win
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/597e52b4-ebb1-4fe2-a5c6-702e70b102ac" />\
 
 ## comments/notes
-Much simpler of a processs than I thought. 
