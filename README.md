@@ -15,3 +15,4 @@ Learn entry level IT administration
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/1e6eeede-b54a-47a0-93c0-b05655f4e025" />
 Account details can be verified by entering "net user Bob"
 6. Changed Bobs pasowrd by entering "net user Bob NewPassword123!"
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/52186d2c-584c-4cac-996f-49c4fdd5caf5" />
