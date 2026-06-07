@@ -1,11 +1,12 @@
 # Windows Admininstation - Lab01
 ## Description
-Learn entry level IT administration
+Here I Learned entry level IT administration tasks using command prompt on a Windows 11 Home Pro VM in VirtualBox. 
 ## Objectives
-- Create a Local Windows user account
+- Learn what entry level IT tasks are done daily
 ## Skills Learned
 -Account creation
 -Password resets
+-Disabling and enabling accounts
 ## Steps
 1. Log into Windows VM on VirtualBox
 2. On desktop, open Command Prompt found by searching " cmd " and running it as an admin.
