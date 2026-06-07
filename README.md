@@ -1,4 +1,4 @@
-# Windows Admininstation - Lab01
+# Local Windows Admininstation - Lab01
 ## Description
 Here I Learned entry level IT administration tasks using command prompt on a Windows 11 Home Pro VM in VirtualBox. 
 ## Objectives
