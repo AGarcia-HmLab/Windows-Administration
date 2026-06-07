@@ -4,9 +4,16 @@ Here I Learned entry level IT administration tasks using command prompt on a Win
 ## Objectives
 - Learn daily entry level IT tasks
 ## Skills Learned
--Account creation
--Password resets
--Disabling and enabling accounts
+- Account creation
+- Password resets
+- Disabling and enabling accounts
+- Commands:
+  - net user
+  - net user Bob Password123! /add
+  - net user Bob
+  - net user Bob NewPassword123!
+  - net user Bob /active:no
+  - net user Bob /active:yes 
 ## Steps
 1. Log into Windows VM on VirtualBox
 2. On desktop, open Command Prompt found by searching " cmd " and running it as an admin.
